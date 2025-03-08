@@ -25,13 +25,14 @@ Rootine is a mobile application designed to assist users in plant care and disea
 ### Prerequisites
 - Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
 - Dart SDK: Included with Flutter
+- Firebase Project: Create a firebase prject first to use firebase authentication and storage.
 - Backend Repository: Clone and set up the backend API repository (Flask) from the corresponding repository link.
 
 ### Installation
 
 1. Clone the repository:
    \`\`\`bash
-   git clone [https://github.com/hereisamara/rootine.git](https://github.com/hereisamara/rootine.git)
+   git clone [https://github.com/hereisamara/rootine-plantcare.git](https://github.com/hereisamara/rootine-plantcare.git)
    \`\`\`
 
 2. Navigate to the project directory:
@@ -50,7 +51,7 @@ Rootine is a mobile application designed to assist users in plant care and disea
    \`\`\`
 
 ### Backend Setup
-For backend setup and API integration, please refer to the [Rootine Backend Repository](https://github.com/hereisamara/rootine_backend).
+For backend setup and API integration, please refer to the [Rootine Backend Repository](https://github.com/hereisamara/rootine_flask).
 
 ## License
 
