@@ -5,7 +5,7 @@
 Rootine is an AI-powered **mobile application** designed to **help plant lovers, gardeners, and farmers** diagnose plant diseases and optimize plant care.  
 🌍 Built with **Flutter** (Frontend) & **Flask** (Backend), Rootine integrates machine learning for **plant disease identification** and provides personalized plant tracking and reminders.  
 
-🚀 **Watch the Project Video:** [YouTube Link](#)  
+🚀 **Watch the Project Video:** [YouTube Link](https://youtu.be/q8szu4pO5AA)  
 
 ## 🖼 UI Screenshots
 
@@ -31,5 +31,5 @@ Rootine is an AI-powered **mobile application** designed to **help plant lovers,
 ⏰ **Smart Reminders** – Get notifications for watering, fertilizing, and maintenance.  
 
 
-### 🛠 Installation & Setup Guide - [View](rootine/rootine/README.md)
+### 🛠 Installation & Setup Guide - [View](rootine/README.md)
 
