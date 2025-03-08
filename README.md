@@ -1,4 +1,4 @@
-![Rootine Banner](assets/banner.png)
+![Rootine Banner](assets/banner-1.png)
 
 # 🌱 Rootine – Smart Plant Care & Disease Detection
 
