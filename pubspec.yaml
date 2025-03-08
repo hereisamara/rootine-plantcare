@@ -1,0 +1,84 @@
+name: rootine
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.7.0
+  image_picker: ^1.1.2
+  carousel_slider: ^4.2.1
+  camera: ^0.11.0+1
+  path_provider: ^2.1.3
+  path: ^1.9.0
+  gal: ^2.3.0
+  firebase_auth: ^4.17.8
+  firebase_core: ^2.27.0
+  http: ^1.2.1
+  cached_network_image: ^3.3.1
+  firebase_storage: ^11.7.7
+  provider: ^6.1.2
+  intl: ^0.19.0
+  image: ^4.2.0
+  fl_chart: ^0.68.0
+  http_parser: ^4.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^2.0.0
+
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/rootine-icon.png"
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+     - assets/images/rootinelogo.png
+     - assets/images/headerlogo1.png
+     - assets/images/headerlogo2.png
+     - assets/images/sprout.png
+     - assets/images/user.png
+     - assets/images/camera1.png
+     - assets/images/tomatoPlant.jpeg
+     - assets/images/plant.png
+     - assets/images/fertilizer.png
+     - assets/images/default_image.png
+     - assets/images/ad_sample_images/ad1.png
+     - assets/images/ad_sample_images/ad2.png
+     - assets/images/ad_sample_images/ad3.png
+     - assets/images/ad_sample_images/ad4.png
+     - assets/images/ad_sample_images/ad5.png
+
+  fonts:
+    - family: Grandstander
+      fonts:
+        - asset: assets/fonts/Grandstander-VariableFont_wght.ttf
+        - asset: assets/fonts/Grandstander-Italic-VariableFont_wght.ttf
+        - asset: assets/fonts/Grandstander-Bold.ttf
